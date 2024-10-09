@@ -18,4 +18,4 @@ This project is a Text To Speech (TTS) application built using Streamlit. It all
 
 ## Web Interface
 
-I have deployed the application on Hugging Face. You can access it through the following link: [Text To Speech App]((https://huggingface.co/spaces/bilgeee/text-to-speech)
+I have deployed the application on Hugging Face. You can access it through the following link: [Text To Speech App](https://huggingface.co/spaces/bilgeee/text-to-speech)
